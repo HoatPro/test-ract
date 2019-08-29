@@ -1,0 +1,102 @@
+{
+  "undefined": [
+    {
+      "id": 7,
+      "name": null,
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    },
+    {
+      "id": 9,
+      "name": null,
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    },
+    {
+      "id": 5,
+      "name": null,
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    },
+    {
+      "id": 6,
+      "name": null,
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    },
+    {
+      "id": 8,
+      "name": null,
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    },
+    {
+      "id": 2,
+      "name": null,
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    },
+    {
+      "id": 13,
+      "name": null,
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    }
+  ],
+  "react-toastify/dist/ReactToastify.css": [
+    {
+      "id": "./node_modules/react-toastify/dist/ReactToastify.css",
+      "name": "./node_modules/react-toastify/dist/ReactToastify.css",
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    }
+  ],
+  "semantic-ui-css/semantic.min.css": [
+    {
+      "id": "./node_modules/semantic-ui-css/semantic.min.css",
+      "name": "./node_modules/semantic-ui-css/semantic.min.css",
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    }
+  ],
+  "../../assets/css/NavMenu.css": [
+    {
+      "id": "./src/assets/css/NavMenu.css",
+      "name": "./src/assets/css/NavMenu.css",
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    }
+  ],
+  "../../assets/css/index.css": [
+    {
+      "id": "./src/assets/css/index.css",
+      "name": "./src/assets/css/index.css",
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    }
+  ],
+  "../../../src/assets/css/loading.css": [
+    {
+      "id": "./src/assets/css/loading.css",
+      "name": "./src/assets/css/loading.css",
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    }
+  ],
+  "../../../static/awesome/css/font-awesome.css": [
+    {
+      "id": "./static/awesome/css/font-awesome.css",
+      "name": "./static/awesome/css/font-awesome.css",
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    }
+  ],
+  "./noop": [
+    {
+      "id": "./node_modules/next/dist/client/noop.js",
+      "name": "./node_modules/next/dist/client/noop.js",
+      "file": "static/chunks/0.js",
+      "publicPath": "static/chunks/0.js"
+    }
+  ]
+}

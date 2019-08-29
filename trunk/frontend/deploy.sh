@@ -1,0 +1,1 @@
+svn update && npm run build && ./start-forever.sh
