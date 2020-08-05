@@ -13,7 +13,7 @@
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.9",
     "express": "~4.16.0",
-    "express-fileupload": "^1.1.5",
+    "express-fileupload": "^1.1.9",
     "express-force-ssl": "^0.3.2",
     "express-handlebars": "^3.0.2",
     "express-session": "^1.16.1",
